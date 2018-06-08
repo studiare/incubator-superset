@@ -67,7 +67,6 @@ const googleCategory20c = [
 ];
 export const ALL_COLOR_SCHEMES = {
   bnbColors,
-  npsColours,
   d3Category10,
   d3Category20,
   d3Category20b,
