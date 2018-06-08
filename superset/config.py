@@ -96,6 +96,7 @@ ENABLE_PROXY_FIX = False
 APP_NAME = 'Kroton Analytics'
 
 # Uncomment to setup an App icon
+#alterado para logo kroton
 APP_ICON = '/static/assets/images/logo-kroton-superset.png'
 
 # Druid query timezone
