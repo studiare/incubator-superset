@@ -2725,10 +2725,6 @@
           "bnbColors"
         ],
         [
-          "npsColors",
-          "npsColors"
-        ],
-        [
           "d3Category10",
           "d3Category10"
         ],
@@ -2777,11 +2773,6 @@
           "#55d12e",
           "#b37e00",
           "#988b4e"
-        ],
-        "npsColors": [
-          "#ff8d46",
-          "#aaaaaa",
-          "#0072cE"
         ],
         "d3Category10": [
           "#1f77b4",
