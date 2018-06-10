@@ -32,16 +32,11 @@ const d3Category20 = d3.scale.category20().range();
 const d3Category20b = d3.scale.category20b().range();
 const d3Category20c = d3.scale.category20c().range();
 const googleCategory10c = [
-  '#3366cc',
-  '#dc3912',
-  '#ff9900',
-  '#109618',
-  '#990099',
-  '#0099c6',
-  '#dd4477',
-  '#66aa00',
-  '#b82e2e',
-  '#316395',
+    "#ff8d46",
+    "#aaaaaa",
+    "#0072ce",
+    "#4d4d4d",
+    "#009cdf",
 ];
 const googleCategory20c = [
   '#3366cc',
